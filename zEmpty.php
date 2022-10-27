@@ -18,6 +18,9 @@ class zEmpty {
 		$this->n = (($n)?$n:'zEmpty');
 		// $this->za->msg('dbg','zEmpty','i am '.$this->n.'(zEmpty)');
 
+		$this->cd = realpath( __DIR__.DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR );
+		$this->dd = DIRECTORY_SEPARATOR;
+
 	}
 }
 
