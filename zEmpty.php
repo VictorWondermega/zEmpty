@@ -7,6 +7,8 @@ namespace za\zEmpty;
 
 class zEmpty {
 	/* Zagata.Empty */
+	private $za = null;
+	public $n = '';
 
 	///////////////////////////////
 	// funcs
