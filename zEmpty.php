@@ -9,9 +9,12 @@ class zEmpty {
 	/* Zagata.Empty */
 	private $za = null;
 	public $n = '';
+<<<<<<< HEAD
 		
 	public $cd = '';
 	public $dd = '/';
+=======
+>>>>>>> b49617a806269e6db06bdadba1ce034b501ca3b1
 
 	///////////////////////////////
 	// funcs
